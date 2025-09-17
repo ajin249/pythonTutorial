@@ -4,8 +4,8 @@ y = 20
 z = x + y
 print(z)
 
-name = "Ajin Joseph" #String
-age = 30 #Integer
+name = "John Doe" #String
+age = 28 #Integer
 price = 500.75 #Float
 isActive = True #Boolean
 
